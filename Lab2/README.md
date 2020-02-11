@@ -7,3 +7,8 @@ Kao istražitelj, možete pronaći osobu prema avataru, jer ljudi se obično ne 
 # Zadatak
 
 U direktoriju se nalazi datoteka office.zip. Vaš zadatak je saznati naziv zgrade, gdje se ona nalazi te kada je otvorena.
+
+# Reference
+
+- [Medium](https://medium.com/@Peter_UXer/osint-how-to-find-information-on-anyone-5029a3c7fd56)
+- [Cybrary](https://www.cybrary.it/blog/0p3n/osint-tricks-quick-guide-image-research/)
